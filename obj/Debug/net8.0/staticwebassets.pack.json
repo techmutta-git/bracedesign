@@ -1,0 +1,829 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\bracedesignarc.com.bundle.scp.css",
+      "PackagePath": "staticwebassets\\bracedesignarc.com.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\about-us.jpg",
+      "PackagePath": "staticwebassets\\img\\about-us.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\blog\\blog-author.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-author.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\blog\\blog-inside-post.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-inside-post.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\blog\\blog-recent-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-recent-1.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\blog\\blog-recent-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-recent-2.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\blog\\blog-recent-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-recent-3.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\blog\\blog-recent-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-recent-4.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\blog\\blog-recent-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-recent-5.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\blog\\comments-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comments-1.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\blog\\comments-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comments-2.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\blog\\comments-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comments-3.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\blog\\comments-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comments-4.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\blog\\comments-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comments-5.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\blog\\comments-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comments-6.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\clients\\client-1.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-1.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\clients\\client-2.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-2.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\clients\\client-3.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-3.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\clients\\client-4.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-4.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\clients\\client-5.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-5.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\clients\\client-6.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-6.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\clients\\client-7.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-7.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\clients\\client-8.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-8.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\features-2.png",
+      "PackagePath": "staticwebassets\\img\\features-2.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\features-3.png",
+      "PackagePath": "staticwebassets\\img\\features-3.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\features.png",
+      "PackagePath": "staticwebassets\\img\\features.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\footer-bg.png",
+      "PackagePath": "staticwebassets\\img\\footer-bg.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\hero-bg-1.png",
+      "PackagePath": "staticwebassets\\img\\hero-bg-1.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\hero-bg.png",
+      "PackagePath": "staticwebassets\\img\\hero-bg.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\hero-img.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-img.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\hero-img.svg",
+      "PackagePath": "staticwebassets\\img\\hero-img.svg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\portfolio\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-1.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\portfolio\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-2.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\portfolio\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-3.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\portfolio\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-4.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\portfolio\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-5.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\portfolio\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-6.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\portfolio\\portfolio-7.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-7.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\portfolio\\portfolio-8.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-8.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\portfolio\\portfolio-9.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-9.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\pricing-business.png",
+      "PackagePath": "staticwebassets\\img\\pricing-business.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\pricing-free.png",
+      "PackagePath": "staticwebassets\\img\\pricing-free.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\pricing-starter.png",
+      "PackagePath": "staticwebassets\\img\\pricing-starter.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\pricing-ultimate.png",
+      "PackagePath": "staticwebassets\\img\\pricing-ultimate.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\team-shape.svg",
+      "PackagePath": "staticwebassets\\img\\team-shape.svg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\team\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\values-1.png",
+      "PackagePath": "staticwebassets\\img\\values-1.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\values-2.png",
+      "PackagePath": "staticwebassets\\img\\values-2.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\img\\values-3.png",
+      "PackagePath": "staticwebassets\\img\\values-3.png"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\lib\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\lib\\aos\\aos.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\lib\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\lib\\aos\\aos.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\lib\\aos\\aos.js.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\lib\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\lib\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\lib\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\lib\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\lib\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\lib\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\lib\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\purecounter\\purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets\\lib\\purecounter\\purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\remixicon\\remixicon.css",
+      "PackagePath": "staticwebassets\\lib\\remixicon\\remixicon.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\remixicon\\remixicon.eot",
+      "PackagePath": "staticwebassets\\lib\\remixicon\\remixicon.eot"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\remixicon\\remixicon.glyph.json",
+      "PackagePath": "staticwebassets\\lib\\remixicon\\remixicon.glyph.json"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\remixicon\\remixicon.less",
+      "PackagePath": "staticwebassets\\lib\\remixicon\\remixicon.less"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\remixicon\\remixicon.svg",
+      "PackagePath": "staticwebassets\\lib\\remixicon\\remixicon.svg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\remixicon\\remixicon.symbol.svg",
+      "PackagePath": "staticwebassets\\lib\\remixicon\\remixicon.symbol.svg"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\remixicon\\remixicon.ttf",
+      "PackagePath": "staticwebassets\\lib\\remixicon\\remixicon.ttf"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\remixicon\\remixicon.woff",
+      "PackagePath": "staticwebassets\\lib\\remixicon\\remixicon.woff"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\remixicon\\remixicon.woff2",
+      "PackagePath": "staticwebassets\\lib\\remixicon\\remixicon.woff2"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "D:\\Work\\bracedesignarc.com\\wwwroot\\lib\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.bracedesignarc.com.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.bracedesignarc.com.props",
+      "PackagePath": "build\\bracedesignarc.com.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.bracedesignarc.com.props",
+      "PackagePath": "buildMultiTargeting\\bracedesignarc.com.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.bracedesignarc.com.props",
+      "PackagePath": "buildTransitive\\bracedesignarc.com.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
