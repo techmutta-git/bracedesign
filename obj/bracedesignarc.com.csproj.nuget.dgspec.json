@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\bracedesignarc.com\\bracedesignarc.com.csproj": {}
+    "D:\\Work\\bracedesign\\bracedesignarc.com.csproj": {}
   },
   "projects": {
-    "D:\\Work\\bracedesignarc.com\\bracedesignarc.com.csproj": {
+    "D:\\Work\\bracedesign\\bracedesignarc.com.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\bracedesignarc.com\\bracedesignarc.com.csproj",
+        "projectUniqueName": "D:\\Work\\bracedesign\\bracedesignarc.com.csproj",
         "projectName": "bracedesignarc.com",
-        "projectPath": "D:\\Work\\bracedesignarc.com\\bracedesignarc.com.csproj",
+        "projectPath": "D:\\Work\\bracedesign\\bracedesignarc.com.csproj",
         "packagesPath": "C:\\Users\\Aravind.Arumugam.LAP00300\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\bracedesignarc.com\\obj\\",
+        "outputPath": "D:\\Work\\bracedesign\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aravind.Arumugam.LAP00300\\AppData\\Roaming\\NuGet\\NuGet.Config"

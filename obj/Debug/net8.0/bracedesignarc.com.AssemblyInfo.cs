@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bracedesignarc.com")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2124ce2770e7fbd1a5a5eb7a73e0231ee23eb79a")]
 [assembly: System.Reflection.AssemblyProductAttribute("bracedesignarc.com")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bracedesignarc.com")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
